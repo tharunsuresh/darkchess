@@ -1,4 +1,4 @@
-# Dark-Chess
+# Dark Chess
 Implements a variant of Chinese Chess using Pygame
 
 ## Introduction
